@@ -27,3 +27,11 @@ Le projet suit une architecture stricte pour la gestion des données :
 
 ---
 *Projet réalisé dans le cadre du cours Intelligence Artificielle Appliquée au Contexte Africain (Groupe 5 - Section Education).*
+
+## 👨‍💻 Auteur
+**Soumana Dama** (Ingénieur d'extraction du projet)
+- 💼 LinkedIn : [Soumana Dama](https://www.linkedin.com/in/soumana-dama-445096253/)
+- 🌐 Portfolio : [soumanadama.netlify.app](https://soumanadama.netlify.app/)
+
+## 📜 Licence
+Ce projet est sous licence **MIT** (Open Source), dans la continuité de l'aspect open source du dataset d'origine. Voir le fichier `LICENSE` pour plus de détails.
