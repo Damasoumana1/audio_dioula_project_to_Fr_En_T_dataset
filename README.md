@@ -26,7 +26,7 @@ Le projet suit une architecture stricte pour la gestion des données :
 - Développer un assistant capable de fonctionner hors-ligne.
 
 ---
-*Projet réalisé dans le cadre du cours Intelligence Artificielle Appliquée au Contexte Africain (Groupe 5 - Section Education).*
+*Projet réalisé dans le cadre de mon Master sur le cours Intelligence Artificielle Appliquée au Contexte Africain (- Section Education).*
 
 ## 👨‍💻 Auteur
 **Soumana Dama** (Ingénieur d'extraction du projet)
