@@ -1,0 +1,1 @@
+It measures in height, width and thickness.

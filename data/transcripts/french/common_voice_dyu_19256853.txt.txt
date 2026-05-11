@@ -1,0 +1,1 @@
+Un des deux signaux possibles d’entrée se transforme en signal de sortie.

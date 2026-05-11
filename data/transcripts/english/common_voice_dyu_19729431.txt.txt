@@ -1,0 +1,1 @@
+Sentences are heavier if they are committed in association.

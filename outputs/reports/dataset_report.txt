@@ -1,0 +1,22 @@
+=== Dataset Statistics ===
+Total recordings: 10929
+Total duration (hours): 13.11
+Average duration (sec): 4.32
+
+Gender Distribution:
+gender
+F    6063
+M    4866
+
+Age Group Distribution:
+age_group
+25    5501
+30    2151
+35    1655
+20     665
+45     326
+15     306
+40     247
+50      39
+65      29
+55      10

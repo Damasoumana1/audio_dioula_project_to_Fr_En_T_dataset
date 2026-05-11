@@ -1,0 +1,63 @@
+# =============================================
+# .gitignore — audio_dioula_project
+# =============================================
+
+# ---- Fichiers audio (volumineux) ----
+data/audio/mp3/
+data/audio/wav/
+data/audio/normalized/
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.m4a
+
+# ---- Données brutes téléchargées ----
+data/raw/
+data/samples/
+
+# ---- Modèles entraînés (trop lourds) ----
+models/whisper_finetune/
+models/tokenizer/*.model
+*.pt
+*.bin
+*.safetensors
+*.onnx
+*.ckpt
+
+# ---- Spectrogrammes générés ----
+outputs/spectrograms/
+
+# ---- Cache Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.pytest_cache/
+
+# ---- Environnements virtuels ----
+.venv/
+venv/
+env/
+.env
+
+# ---- Fichiers système ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Logs ----
+outputs/logs/*.log
+*.log
+
+# ---- Fichiers temporaires ----
+*.tmp
+*.bak
+*.swp
+
+# ---- HuggingFace cache local ----
+.cache/
+~/.cache/huggingface/

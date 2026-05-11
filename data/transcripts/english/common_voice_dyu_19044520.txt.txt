@@ -1,0 +1,1 @@
+Each sub-system interacts with others sub-systems.

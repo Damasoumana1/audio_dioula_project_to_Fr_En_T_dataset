@@ -1,0 +1,1 @@
+Son interface est complexe et son développement est arrêté.

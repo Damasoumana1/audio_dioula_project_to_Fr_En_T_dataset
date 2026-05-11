@@ -1,0 +1,1 @@
+It operates as a background task.

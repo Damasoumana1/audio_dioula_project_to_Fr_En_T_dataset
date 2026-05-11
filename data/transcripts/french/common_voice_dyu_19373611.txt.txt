@@ -1,0 +1,1 @@
+La vitesse n'est ainsi pas prise en compte.

@@ -1,0 +1,1 @@
+Dans ce cas là, le plan standard des blancs ne fonctionne pas.

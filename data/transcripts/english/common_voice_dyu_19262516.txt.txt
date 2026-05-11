@@ -1,0 +1,1 @@
+A recorder device allows to save the collected data by the time they are retransmitted.

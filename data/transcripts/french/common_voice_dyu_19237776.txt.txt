@@ -1,0 +1,1 @@
+Il existe aussi une méthode correspondante pour retrouver la clé secrète.

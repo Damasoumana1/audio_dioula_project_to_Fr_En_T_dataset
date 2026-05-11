@@ -1,0 +1,1 @@
+Le serveur frontal agit donc comme un proxy.

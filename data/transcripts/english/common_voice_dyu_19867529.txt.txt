@@ -1,0 +1,1 @@
+These requirements may depend on the context of the software and its language.

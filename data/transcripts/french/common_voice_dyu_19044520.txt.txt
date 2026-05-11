@@ -1,0 +1,1 @@
+Chaque sous-système interagit avec les autres sous-systèmes.

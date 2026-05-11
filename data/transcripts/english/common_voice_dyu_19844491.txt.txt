@@ -1,0 +1,1 @@
+The Itelmen language currently uses a Russian Cyrillic alphabet supplemented by specific letters.

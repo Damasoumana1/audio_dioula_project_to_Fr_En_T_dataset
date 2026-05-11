@@ -1,0 +1,1 @@
+If it’s the last ball remaining, he loses the game.

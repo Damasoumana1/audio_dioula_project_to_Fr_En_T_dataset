@@ -1,0 +1,1 @@
+Un enregistreur permet de stocker les données collectées en attendant qu'elles soient retransmises.

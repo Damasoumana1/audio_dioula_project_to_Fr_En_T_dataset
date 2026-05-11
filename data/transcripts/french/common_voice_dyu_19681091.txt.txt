@@ -1,0 +1,1 @@
+Les données peuvent ainsi être écrites, effacées et réécrites.
