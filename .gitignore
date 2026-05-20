@@ -17,7 +17,7 @@ data/raw/
 data/samples/
 
 # ---- Modèles entraînés (trop lourds) ----
-models/whisper_finetune/
+data/processed/whisper_dataset/
 models/tokenizer/*.model
 *.pt
 *.bin

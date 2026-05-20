@@ -5,3 +5,5 @@ librosa
 tqdm
 huggingface_hub
 numpy
+transformers
+torch
